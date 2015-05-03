@@ -3,7 +3,7 @@ from pygame.locals import *
 
 
 # This class handles all the keyboard and mouse input
-class keyboard():
+class Keyboard():
 
     # This inits the nice long dictionary we have here
     def __init__(self):
